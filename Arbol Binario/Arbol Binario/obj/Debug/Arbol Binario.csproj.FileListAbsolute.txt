@@ -1,0 +1,11 @@
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.AssemblyReference.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.CoreCompileInputs.cache
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\rodru\OneDrive\Escritorio\Estudios\Universidad\Landivar\Segundo Ciclo\Discreta II\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Form1.resources
